@@ -1,3 +1,7 @@
-rm calamares* -rf
-rm pkg -rf
-rm src -rf
+ls
+rm -rf calamares 
+rm -rf ckbcomp
+rm -rf mkinitcpio-openswap
+rm -rf ttf-comfortaa
+rm -rf pkg
+rm -rf src

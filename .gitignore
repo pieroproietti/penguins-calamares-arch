@@ -4,9 +4,9 @@
 # But not these files...
 !.gitignore
 !penguins-eggs.install
-!PKGBUILD
-!README.md
-!changelog.md
 !build
 !clean
+!instann
+!README.md
+!changelog.md
 # etc...
