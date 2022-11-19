@@ -1,6 +1,6 @@
 # calamares PKGBUILD 
 
-I'm using manjaro version, we need before to build it to build and install from AUR the follow packages:
+We are using **unchanged** [manjaro PKGBUILD](https://gitlab.manjaro.org/packages/extra/calamares). Before to build calamares we need to build and install the follow packages from AUR:
 
 * ttf-comfortaa
 * ckbcomp
