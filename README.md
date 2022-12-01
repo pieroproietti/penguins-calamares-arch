@@ -15,24 +15,28 @@ after, we can build calamares
 git clone https://aur.archlinux.org/ttf-comfortaa.git
 cd ttf-comfortaa
 makepkg -srcCi
+cd ..
 ```
 ## ckbcomp
 ```
 git clone https://aur.archlinux.org/ckbcomp.git
 cd ckbcomp
 makepkg -srcCi
+cd ..
 ```
 ## mkinitcpio-openswap
 ```
 git clone https://aur.archlinux.org/mkinitcpio-openswap.git
 cd mkinitcpio-openswap
 makepkg -srcCi
+cd ..
 ```
 ## calamares
 ```
 git clone https://gitlab.manjaro.org/packages/extra/calamares
 cd calamares
 makepkg -srcCi
+cd ..
 ```
 
 # Binaries
